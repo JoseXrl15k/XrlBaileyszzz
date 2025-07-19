@@ -1,17 +1,17 @@
 {
-  "name": "xrljose",
+  "name": "JoseXrl15k",
   "version": "25.9.1",
   "description": "baileys whatsapp-api",
   "keywords": [
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/xrljose/XrlBaileyszzz",
+  "homepage": "https://github.com/JoseXrl15k/XrlBaileyszzz",
   "repository": {
-    "url": "https://github.com/xrljose/XrlBaileyszzz"
+    "url": "https://github.com/JoseXrl15k/XrlBaileyszzz"
   },
   "license": "MIT",
-  "author": "xrljose",
+  "author": "JoseXrl15k",
   "main": "lib/index.js",
   "files": [
     "lib/*",
