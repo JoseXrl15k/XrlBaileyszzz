@@ -21,12 +21,12 @@ Esta modificación se centra en crear una versión **completamente basada en Jav
 Instalar en package.json:
 ```json
 "dependencies": {
-    "baileys": "github:xrljose/XrlBaileyszzz"
+    "baileys": "github:JoseXrl15k/XrlBaileyszzz"
 }
 ```
 o instalar en terminal:
 ```
-npm install baileys@github:xrljose/XrlBaileyszzz
+npm install baileys@github:JoseXrl15k/XrlBaileyszzz
 ```
 
 Luego importa la función por defecto en tu código:
@@ -57,9 +57,9 @@ Este proyecto está explícitamente dirigido a entornos modernos y no soporta ve
 
 ![metadata](https://iili.io/Fw3Zp5P.jpg)
 
-> **Recode Baileys By xrljose**
+> **Recode Baileys By JoseXrl15k**
 
 [☏ Contacto del Admin ](https://wa.me/51946509137)
 
 
-> **Copyright © 2024 - 2025 xrljose**
+> **Copyright © 2024 - 2025 JoseXrl15k**
